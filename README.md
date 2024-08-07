@@ -13,6 +13,15 @@ The program has been optimized to enhance performance and user experience. It av
 Aesthetically, the program adopts a dark theme, with a black background and yellow text, which not only gives it a modern look but also improves readability by providing a high contrast. This color scheme extends across all elements of the user interface, including buttons and text fields, creating a cohesive and visually appealing design. By combining functionality with an intuitive and attractive interface, this program offers a practical tool for anyone who needs to explore the contents of .zip files quickly and efficiently.
 
 #
+### Custom GPT
+
+[ZIP Topology](https://chatgpt.com/g/g-shi8Y3dOA-zip-topology) was developed to specialize in visualizing the hierarchical structure of files and folders within .zip archive files. Its primary function is to provide users with a clear and concise representation of the directory structure contained within these archives. This allows users to quickly understand the contents without having to extract the files or manually navigate through the archive. The GPT delivers this information in a straightforward text format, focusing on clarity and ease of comprehension.
+
+In its responses, ZIP Topology avoids unnecessary explanations or excessive detail, instead prioritizing the efficient delivery of the requested information. If the archive structure is particularly large or complex, the GPT can summarize or truncate repetitive sections to maintain a manageable output size. Users can also request specific parts of the directory structure if they only need to see a portion of the archive's contents, making the tool adaptable to various needs.
+
+The tone of ZIP Topology is helpful and efficient, aimed at assisting users with minimal effort on their part. By streamlining the process of understanding archive contents, it saves users time and reduces the hassle of manually exploring .zip files. The tool is particularly useful for users who need to quickly grasp the layout of files within an archive, whether for organization, analysis, or other purposes.
+
+#
 
 > Alex: "*This is a new tool for Sourceduty's downloadable .zip OneDrive storage folders.*"
 
